@@ -1,0 +1,47 @@
+#campotexto{
+    margin-top: 20px;
+}
+
+#info{
+    margin-top: 80px;
+    color: darkcyan;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#logo{
+    margin-top: 20px;
+    width: 20%;
+    height: 20%; 
+}
+
+#carta{
+    width: 50%;
+    height: 50%; 
+}
+
+#mensagemT{
+    margin-top: 80px;
+    color: black;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#mensagem{
+    margin-top: 80px;
+    color: darkcyan;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#link{
+    margin-top: 80px;
+    text-align: center;
+}
+
+#notfound{
+    margin-top: 80px;
+    color: darkcyan;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
